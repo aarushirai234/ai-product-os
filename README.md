@@ -27,16 +27,24 @@ AI Product OS explores how AI can help with that.
 
 ## First workflow: Reddit Insight Agent 🔎
 
-The first workflow analyzes Reddit conversations and turns them into PM-ready product insights.
+Reddit Insight Agent is the first workflow in AI Product OS.
+
+It analyzes Reddit conversations and turns them into PM-ready product insights with source attribution.
 
 It is designed to identify:
 
 - recurring user complaints
 - product themes
-- sentiment
-- severity
+- sentiment shifts
+- emerging bugs
 - source-backed evidence
 - possible PM actions
+
+View the project here:  
+https://github.com/aarushirai234/monitoringReddit
+
+Try the live demo:  
+https://monitoringreddit-aarushirai.streamlit.app/
 
 ## Principles
 
