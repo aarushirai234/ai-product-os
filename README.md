@@ -1,4 +1,4 @@
-# AI Product OS
+# AI Product OS ⚡
 
 Open-source AI workflows for product teams.
 
@@ -6,12 +6,12 @@ AI Product OS is a collection of practical AI workflows that help product teams 
 
 The goal is to make it easier to:
 
-- understand users
-- track competitors
-- synthesize feedback
-- turn research into product specs
-- review launch risks
-- make sense of messy signals
+- 👥 understand users
+- 🕵️ track competitors
+- 🧩 synthesize feedback
+- 📝 turn research into product specs
+- 🚦 review launch risks
+- 📊 make sense of messy signals
 
 ## Why this exists
 
@@ -25,7 +25,7 @@ The hard part is turning messy signals into clear product decisions.
 
 AI Product OS explores how AI can help with that.
 
-## First workflow: Reddit Insight Agent
+## First workflow: Reddit Insight Agent 🔎
 
 The first workflow analyzes Reddit conversations and turns them into PM-ready product insights.
 
@@ -40,11 +40,11 @@ It is designed to identify:
 
 ## Principles
 
-- Build practical workflows, not toy demos
-- Ground outputs in evidence
-- Make results easy to inspect
-- Keep humans in the decision loop
-- Optimize for real product decisions
+- 🛠️ Build practical workflows, not toy demos
+- 🔗 Ground outputs in evidence
+- 🔍 Make results easy to inspect
+- 🧠 Keep humans in the decision loop
+- 🎯 Optimize for real product decisions
 
 ## Status
 
